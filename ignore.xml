@@ -31,6 +31,12 @@
 *.iml
 out
 gen</template>
+      <template name="javascript">.idea/
+*.iml
+
+node_modules/
+target/
+bin/</template>
     </userTemplates>
   </component>
 </application>
