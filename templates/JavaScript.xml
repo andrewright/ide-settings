@@ -1,7 +1,7 @@
 <templateSet group="JavaScript">
   <template name="log" value="console.log('$FILENAME$:$LINENUMBER$', $END$);" description="Create console.log" toReformat="false" toShortenFQNames="true">
-    <variable name="FILENAME" expression="fileName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="LINENUMBER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILENAME" expression="fileName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="LINENUMBER" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
