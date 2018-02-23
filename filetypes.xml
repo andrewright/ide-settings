@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ejs" type="HTML" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
