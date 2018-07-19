@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ejs" type="EJS" />
       <mapping ext="ejs" type="HTML" />
       <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
