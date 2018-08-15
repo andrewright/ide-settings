@@ -3,4 +3,8 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="CARET_BLINKING_PERIOD" value="300" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
