@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="493a462e-4317-438f-844a-625424d86032" name="Zeew-preview" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ba53bdc6-8941-440b-b231-38e424f10466" name="zeew-wallet" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0cec17eb-5e0a-4c16-b1a1-d0851161aba7" name="zeew-mail" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
