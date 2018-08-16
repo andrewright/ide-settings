@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log('$FILENAME$:$LINENUMBER$', $END$);" description="log" toReformat="false" toShortenFQNames="true">
+    <variable name="FILENAME" expression="fileName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="LINENUMBER" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
