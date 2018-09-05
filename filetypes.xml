@@ -5,6 +5,7 @@
       <mapping pattern="features-detailed" type="PLAIN_TEXT" />
       <mapping pattern="subscription-plans" type="PLAIN_TEXT" />
       <mapping pattern="breadcrumbs" type="PLAIN_TEXT" />
+      <mapping pattern="lead-generation-widgets" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="partnership" type="PLAIN_TEXT" />
