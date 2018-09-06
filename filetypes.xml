@@ -6,6 +6,7 @@
       <mapping pattern="multiplie-platform" type="PLAIN_TEXT" />
       <mapping pattern="subscription-plans" type="PLAIN_TEXT" />
       <mapping pattern="breadcrumbs" type="PLAIN_TEXT" />
+      <mapping pattern="form-component-style" type="PLAIN_TEXT" />
       <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping pattern="lead-generation-widgets" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
