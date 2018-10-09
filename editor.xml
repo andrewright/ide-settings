@@ -21,5 +21,6 @@
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
 </application>
