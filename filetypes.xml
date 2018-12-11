@@ -9,6 +9,7 @@
       <mapping pattern="LeaveRequestShort" type="PLAIN_TEXT" />
       <mapping pattern="FreshMail" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="remote-imgs_mini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
