@@ -7,6 +7,7 @@
       <mapping pattern="features-list" type="PLAIN_TEXT" />
       <mapping pattern="userIpInfoController" type="PLAIN_TEXT" />
       <mapping pattern="LeaveRequestShort" type="PLAIN_TEXT" />
+      <mapping pattern="FreshMail" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
