@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Main-logo" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrcifnore" type="PLAIN_TEXT" />
       <mapping pattern="all-features-page" type="PLAIN_TEXT" />
       <mapping pattern="call-to-action" type="PLAIN_TEXT" />
