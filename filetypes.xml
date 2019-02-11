@@ -8,6 +8,7 @@
       <mapping pattern="FreshMail" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrcifnore" type="PLAIN_TEXT" />
       <mapping pattern="call-to-action" type="PLAIN_TEXT" />
+      <mapping pattern="_login" type="PLAIN_TEXT" />
       <mapping pattern="remote-imgs_mini" type="PLAIN_TEXT" />
       <mapping pattern="userIpInfoController" type="PLAIN_TEXT" />
       <mapping pattern="LeaveRequestShort" type="PLAIN_TEXT" />
