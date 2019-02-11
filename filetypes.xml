@@ -4,6 +4,7 @@
       <mapping ext="mjml" type="HTML" />
       <mapping pattern="features-list" type="PLAIN_TEXT" />
       <mapping pattern="Main-logo" type="PLAIN_TEXT" />
+      <mapping pattern="_action_profile" type="PLAIN_TEXT" />
       <mapping pattern="all-features-page" type="PLAIN_TEXT" />
       <mapping pattern="FreshMail" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrcifnore" type="PLAIN_TEXT" />
