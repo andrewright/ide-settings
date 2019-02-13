@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mjml" type="HTML" />
+      <mapping pattern="Registration_What Happen_type2" type="PLAIN_TEXT" />
+      <mapping pattern="_action_profile_complete" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
