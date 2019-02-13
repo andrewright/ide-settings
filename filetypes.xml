@@ -12,6 +12,7 @@
       <mapping pattern="_action_profile" type="PLAIN_TEXT" />
       <mapping pattern="features-list" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrcifnore" type="PLAIN_TEXT" />
+      <mapping pattern="Registration_Login_type2" type="PLAIN_TEXT" />
       <mapping pattern="LeaveRequestShort" type="PLAIN_TEXT" />
       <mapping pattern="_login" type="PLAIN_TEXT" />
       <mapping pattern="FreshMail" type="PLAIN_TEXT" />
