@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="EUSITE-433 Apifonica. Website. Prototype. Blog." />
+    <option name="defaultScopeName" value="EUSITE-433 Apifonica. Website. Prototype. Blog." />
+    <option name="SEARCH_SCOPE" value="EUSITE-433 Apifonica. Website. Prototype. Blog." />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
