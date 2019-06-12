@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -95,6 +95,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'dev'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'watch:docs:car:html'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'watch:docs:car:html'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
