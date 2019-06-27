@@ -153,6 +153,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'build'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
