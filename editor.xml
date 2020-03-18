@@ -13,4 +13,14 @@
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
   </component>
+  <component name="SqlCodeCompletionSettings">
+    <option name="customMappings">
+      <map>
+        <entry key="log" value="console.log(&quot;line,&quot; $1);" />
+      </map>
+    </option>
+    <CUSTOM_ALIAS_MAPPINGS>
+      <entry table-name="log" value="console.log(&quot;line,&quot; $1);" />
+    </CUSTOM_ALIAS_MAPPINGS>
+  </component>
 </application>
