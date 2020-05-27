@@ -1,7 +1,6 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code Light" />
   </component>
@@ -24,5 +23,8 @@
     <CUSTOM_ALIAS_MAPPINGS>
       <entry table-name="log" value="console.log(&quot;line,&quot; $1);" />
     </CUSTOM_ALIAS_MAPPINGS>
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
