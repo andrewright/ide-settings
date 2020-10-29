@@ -1,0 +1,9 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="sortType" value="LINE_LENGTH_LONG_SHORT" />
+      </SortSettings>
+    </option>
+  </component>
+</application>
