@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="rscfc" value="import { FC } from 'react';&#10;&#10;export const $TM_FILENAME_BASE$: FC = () =&gt; (&#10;  &lt;div&gt;$END$&lt;/div&gt;&#10;)&#10;" description="React FC component with Next.js" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
