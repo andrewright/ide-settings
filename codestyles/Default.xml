@@ -53,7 +53,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
