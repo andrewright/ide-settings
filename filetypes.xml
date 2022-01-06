@@ -6,6 +6,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="mjml" type="MJML" />
       <mapping pattern=".mjmlconfig" type="PLAIN_TEXT" />
       <mapping ext="wsc" type="PLAIN_TEXT" />
       <mapping ext="email" type="PLAIN_TEXT" />
@@ -19,6 +20,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <removed_mapping pattern=".mjmlconfig" approved="true" type="JSON" />
     </extensionMap>
   </component>
 </application>
