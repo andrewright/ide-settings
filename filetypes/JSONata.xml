@@ -1,4 +1,4 @@
-<filetype binary="false" description="JSONata" name="JSONata">
+<filetype binary="false" default_extension="jsonata" description="JSONata" name="JSONata">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="" />
