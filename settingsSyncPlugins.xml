@@ -106,6 +106,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.nekofar.milad.intellij.nuxtjs">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JavaScript" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.plugins.vue" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.reactpreview.intellij.plugin">
           <value>
             <PluginData>
