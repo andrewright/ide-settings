@@ -83,6 +83,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.khmelyuk.multirun">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.mallowigi.idea">
           <value>
             <PluginData>
@@ -209,6 +221,11 @@
               </option>
               <option name="enabled" value="false" />
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.vue">
