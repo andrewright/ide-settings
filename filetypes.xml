@@ -6,7 +6,6 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="mjml" type="MJML" />
       <mapping pattern=".mjmlconfig" type="PLAIN_TEXT" />
       <mapping ext="wsc" type="PLAIN_TEXT" />
       <mapping ext="email" type="PLAIN_TEXT" />
