@@ -4,6 +4,9 @@
     <extensionMap>
       <mapping pattern="common" type="AUTO_DETECTED" />
       <mapping pattern="logioptionsplus" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".mjmlconfig" type="PLAIN_TEXT" />
       <mapping ext="wsc" type="PLAIN_TEXT" />
       <mapping ext="email" type="PLAIN_TEXT" />
@@ -19,9 +22,6 @@
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern=".mjmlconfig" approved="true" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
