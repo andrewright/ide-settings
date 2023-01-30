@@ -3,6 +3,9 @@
     <local-interpreter path="/usr/local/opt/node@12/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.9.0/bin/node">
+      <version-cache version="18.9.0" last-modified="1662591611000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.3.0/bin/node">
       <version-cache version="18.3.0" last-modified="1654137266000" />
     </local-interpreter>
@@ -15,11 +18,20 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v17.9.1/bin/node">
       <version-cache version="17.9.1" last-modified="1654064424000" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.19.0/bin/node">
+      <version-cache version="16.19.0" last-modified="1670920349000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.17.0/bin/node">
+      <version-cache version="16.17.0" last-modified="1660642853000" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/16.5.0/bin/node">
       <version-cache version="16.5.0" last-modified="1627385025863" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.3.0/bin/node">
       <version-cache version="16.3.0" last-modified="1622682773000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.14.0/bin/node">
+      <version-cache version="15.14.0" last-modified="1617725158000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.13.0/bin/node">
       <version-cache version="15.13.0" last-modified="1617164963000" />
@@ -29,6 +41,9 @@
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/15.8.0/bin/node">
       <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.20.0/bin/node">
+      <version-cache version="14.20.0" last-modified="1657168223000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.0/bin/node">
       <version-cache version="14.17.0" last-modified="1620757815000" />
