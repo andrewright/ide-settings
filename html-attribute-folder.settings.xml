@@ -3,7 +3,6 @@
     <option name="attributes">
       <list>
         <option value="className" />
-        <option value=" class" />
       </list>
     </option>
     <option name="foldingMethod" value="1" />
