@@ -8,6 +8,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".mjmlconfig" type="PLAIN_TEXT" />
+      <mapping ext="ir" type="PLAIN_TEXT" />
       <mapping ext="wsc" type="PLAIN_TEXT" />
       <mapping ext="email" type="PLAIN_TEXT" />
       <removed_mapping pattern="*.aboutEvent.ts" approved="true" type="PLAIN_TEXT" />
