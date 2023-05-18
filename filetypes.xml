@@ -11,6 +11,7 @@
       <mapping ext="ir" type="PLAIN_TEXT" />
       <mapping ext="wsc" type="PLAIN_TEXT" />
       <mapping ext="email" type="PLAIN_TEXT" />
+      <mapping pattern=".GlobalPreferences.plist" type="XML" />
       <removed_mapping pattern="*.aboutEvent.ts" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
