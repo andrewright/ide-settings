@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="clubradio.lv" id="27403069-bb2a-4c50-bb3e-f902f125a11f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="andrewright" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
